@@ -1,0 +1,68 @@
+.navbar-nav{
+    margin-left: 53%;
+    padding: 0;
+}
+.active{
+    text-decoration: 2px solid underline;
+    text-decoration-color: #fbc92d;
+}
+.nav-link{
+    margin: 10px 18px;
+    padding: 1rem;
+    font-family: Staatliches;
+    font-size: large;
+}
+.navbar-brand{
+    margin-top: 0;
+    margin-left: 15px;
+    padding: 0;
+}
+#navbar-content{
+    text-align: center;
+}
+.divider-text {
+    position: relative;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.divider-text span {
+    padding: 7px;
+    font-size: 12px;
+    position: relative;   
+    z-index: 2;
+}
+.divider-text:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    top: 55%;
+    left: 0;
+    z-index: 1;
+}
+
+.btn-facebook {
+    background-color: #405D9D;
+    color: #fff;
+}
+.btn-twitter {
+    background-color: #42AEEC;
+    color: #fff;
+}
+.social_icon span{
+    font-size: 50px;
+    margin-top: -3%;
+    margin-left: 5%;
+    float: left;
+    }
+    
+    .social_icon span:hover{
+    color: white;
+    cursor: pointer;
+    }
+    .dropdown-item{
+        font-family: Dongle;
+        font-size: 25px;
+    }
+    

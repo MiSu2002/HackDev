@@ -1,0 +1,31 @@
+.navbar-nav{
+    margin-left: 45%;
+    padding: 0;
+}
+.nav-link{
+    margin: 10px 18px;
+    padding: 1rem;
+    font-family: Staatliches;
+    font-size: large;
+}
+.navbar-brand{
+    margin-top: 0;
+    margin-left: 15px;
+    padding: 0;
+}
+#navbar-content{
+    text-align: center;
+}
+.container{
+    margin-top: 5%;
+    margin-right: 3%;
+    text-align: center;
+}
+.btn:hover{
+    color: white;
+    cursor: pointer;
+}
+.dropdown-item{
+    font-family: Dongle;
+    font-size: 25px;
+}
